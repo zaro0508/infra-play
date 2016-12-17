@@ -1,0 +1,6 @@
+/.idea
+/*.iml
+.vagrant
+/registry
+/registry-mirror
+/ansible/*.retry
